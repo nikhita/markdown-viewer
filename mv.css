@@ -1,0 +1,31 @@
+
+#box1,#box2
+  margin-top: 30px
+  
+  
+blockquote
+  display: inline-block
+  
+.content
+  .mainHeader
+    text-align: center
+    font-family: verdana
+  
+    
+body
+  background: black
+  background: red
+  background: black
+  color: white
+  
+textarea
+  color: black
+  border-radius: 10px
+  box-shadow: 0px 0px 10px yellow
+textarea:focus
+  outline: none
+  box-shadow: 0 0 10px red
+
+.content
+  background : black
+  padding: 50px 50px 50px 50px
